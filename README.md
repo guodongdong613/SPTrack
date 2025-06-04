@@ -1,1 +1,3 @@
-# SPTrack
+# SPTrack: Spectral Similarity Prompt Learning for Hyperspectral Object Tracking
+We propose a spectral similarity prompt learning approach for hyperspectral object tracking (SPTrack)，extensive experiments are conducted on the HOT2023 and IMEC25 datasets, and SPTrack is found to achieve state-of-the-art performance with minimal computational effort. Additionally, we verify the cross-spectral domain generalization ability of SPTrack on the HOT2023 dataset, which includes data from three spectral bands.
+For more detailed information, please refer to our paper. https://www.mdpi.com/2072-4292/16/16/2975
