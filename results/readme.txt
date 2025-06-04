@@ -1,0 +1,2 @@
+We have disclosed all the results of SPTrack on the HOT2023 and IMEC25 datasets, and will release the code in the future.
+In the HOT2023 folder, there are results obtained using models based on three different spectral matching maps: ED, SAM, and SSS. In the IMEC25 folder, we only provide the best-performing method based on the SAM spectral matching map.
